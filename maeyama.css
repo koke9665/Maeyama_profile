@@ -1,10 +1,80 @@
+div.profile{
+  position:relative;
+}
 div.maeyama{
   width:100%;
-  top:16%;
+  top:40%;
   position:absolute;
 }
 div.topseacret{
   width:20%;
-  top:20px;
+  top:2%;
+  right:10px;
   position:absolute;
+}
+div.profile2{
+  width: 60%;
+  top: 20%;
+  right: 10%;
+  position: absolute;
+}
+div.maeyama_gazou{
+  width:20%;
+  top:2%;
+  left:2%;
+  position:absolute;
+}
+div.kensazumi{
+  width:20%;
+  top: 42%;
+  left: 8%;
+  position:absolute;
+}
+div.top{
+  width: 10%;
+  top: 75%;
+  left: 8%;
+  position: absolute;
+}
+div.star{
+  width: 30%;
+  top: 48%;
+  left: 4%;
+  position: absolute;
+}
+div.amo{
+  width: 15%;
+  top: 77%;
+  right: 4%;
+  position: absolute;
+}
+div.weapon_profile1{
+  width: 55%;
+  top: 16%;
+  right: 10%;
+  position: absolute;
+}
+div.weapon1{
+  width:30%;
+  top:2%;
+  left:2%;
+  position:absolute;
+}
+div.tag{
+  width: 20%;
+  top: 48%;
+  left: 20%;
+  position: absolute;
+}
+div.weapon_profile2{
+  width: 45%;
+  top: 16%;
+  right: 10%;
+  position: absolute;
+}
+div.amo3{
+  width: 15%;
+  top: 77%;
+  left: 25%;
+  position: absolute;
 }
